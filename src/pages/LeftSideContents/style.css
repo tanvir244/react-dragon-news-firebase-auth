@@ -1,0 +1,4 @@
+.nav-link.active {
+    background-color: #ff0000; /* Change to the desired background color */
+    color: #ffffff; /* Change to the desired text color */
+}
